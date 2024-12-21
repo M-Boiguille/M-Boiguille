@@ -1,5 +1,5 @@
 # 🌟 Bienvenue sur mon profil GitHub 🌟
-[![roadmap.sh](https://roadmap.sh/card/wide/675e6e30ecc889bb0db68e78?variant=dark&roadmaps=devops)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/675e6e30ecc889bb0db68e78?variant=light&roadmaps=devops%2Ccpp%2Clinux%2Cpython)](https://roadmap.sh)
 
 ## 🧑‍🔧 À propos de moi
 
