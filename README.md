@@ -1,5 +1,6 @@
 # 🌟 Bienvenue sur mon profil GitHub 🌟
-[![roadmap.sh](https://roadmap.sh/card/wide/675e6e30ecc889bb0db68e78?variant=light&roadmaps=devops%2Ccpp%2Clinux%2Cpython)](https://roadmap.sh)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/675e6e30ecc889bb0db68e78?variant=dark&roadmaps=linux)](https://roadmap.sh)
 
 ## 🧑‍🔧 À propos de moi
 
@@ -8,37 +9,47 @@ Bonjour ! Je suis un **technicien télécom et courant faibles** en pleine recon
 ### 🎯 Mes objectifs :
 - Transformer ma curiosité technique en compétences pratiques pour bâtir et gérer des infrastructures modernes.
 - Explorer les outils de DevOps et contribuer à des projets collaboratifs.
-- Relever les défis du cloud et de l'automatisation dans un environnement professionnel.
+- Relever les défis du cloud, de la conteneurisation et de l'infrastructure as code dans un environnement professionnel.
 
 ---
 
 ## 📚 Ce que j'apprends actuellement
 
 Je m’appuie sur la **roadmap.sh** pour structurer mon apprentissage et m’assurer de progresser dans les bonnes directions. Voici les domaines que je développe actuellement :
-- **Programmation** : Expertise avancée en `C`, bases en `C++`, `Python` et `JavaScript`.
-- **Systèmes** : Familiarisation avec **Linux** (administration de base, gestion des services) et **Docker**.
-- **Réseaux** : Découverte des protocoles fondamentaux (TCP/IP, SSH, DNS).
+- **Systèmes** : Approfondissement de **Linux** (administration avancée, gestion des utilisateurs, réseaux).
+- **Outils DevOps** : Maîtrise croissante de **Docker**, **Terraform** et **Git** pour les workflows CI/CD.
+- **Programmation** : Expertise avancée en `C`, bonnes bases en `Python` et exploration de `Bash` pour l'automatisation.
 
 ---
 
-## 🚀 Projets en cours
+## 🚀 Projets réalisés
 
-Pour concrétiser mes connaissances, je m’attaque à des projets pratiques inspirés des exercices roadmap.sh :
-- 🔧 **Scripts d’automatisation** : Utilisation de bash pour simplifier des tâches courantes.
-- 🐳 **Containerisation** : Création de conteneurs Docker simples et exploration des Dockerfiles.
-- 🎩 **Applications fonctionnelles** : Développement de petits outils en Python et JavaScript.
+Pour concrétiser mes connaissances, j’ai travaillé sur des projets pratiques inspirés des exercices roadmap.sh :
 
-Projets spécifiques bientôt disponibles dans mes repositories !
+### 🔧 **Automation avec Bash**
+- Création d’un **script systemd** pour un service simulé (logging continu).
+- Développement de scripts pour monitorer l’utilisation CPU, mémoire, et disque.
+
+### 🐳 **Dockerisation**
+- Création et optimisation de conteneurs Docker.
+- Exploration des Dockerfiles pour construire des images personnalisées.
+
+### 🌐 **Infrastructure as Code**
+- Premiers pas avec **Terraform** pour gérer des ressources cloud simples.
+- Déploiement automatisé de services.
+
+Projets spécifiques disponibles dans mes repositories GitHub !
 
 ---
 
-## 🛠️ Compétences techniques en développement
+## 🛠️ Compétences techniques
 
-| 🌱 En cours d’apprentissage  | 🌟 À maîtriser prochainement |
-|-----------------------------|----------------------------|
-| Programmation en C (avancée) | CI/CD avec GitHub Actions |
-| Linux (Ubuntu, commandes de base) | Infrastructure as Code (Terraform, Ansible) |
-| Docker (bases)             | Monitoring et observabilité |
+| 🌱 En cours d’apprentissage          | 🌟 Compétences acquises             |
+|-------------------------------------|-------------------------------------|
+| Linux (gestion avancée des systèmes) | Programmation en C (avancée)        |
+| Terraform (Infrastructure as Code)  | Docker (bases solides)              |
+| CI/CD avec GitHub Actions           | Git (add, commit, push, workflows)  |
+| Kubernetes (premiers pas)           | Bash scripting (automatisation)     |
 
 ---
 
