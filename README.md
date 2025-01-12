@@ -1,11 +1,10 @@
 # 🌟 Bienvenue sur mon profil GitHub 🌟
 
-[[[![roadmap.sh]([https://roadmap.sh/card/wide/675e6e30ecc889bb0db68e78?variant=dark&roadmaps=linux](https://roadmap.sh/card/wide/675e6e30ecc889bb0db68e78?variant=dark&roadmaps=linux%2Cdocker%2Cterraform))](https://roadmap.sh)
-](https://roadmap.sh/card/wide/675e6e30ecc889bb0db68e78?variant=dark&roadmaps=linux%2Cdocker%2Cterraform)](https://roadmap.sh/card/wide/675e6e30ecc889bb0db68e78?variant=dark&roadmaps=linux%2Cdocker%2Cterraform)
+[![roadmap.sh](https://roadmap.sh/card/tall/675e6e30ecc889bb0db68e78?variant=dark&roadmaps=docker%2Clinux%2Cterraform)](https://roadmap.sh)
 
 ## 🧑‍🔧 À propos de moi
 
-Bonjour ! Je suis un **technicien télécom et courant faibles** en pleine reconversion vers le monde du **DevOps** et des technologies cloud. Après plusieurs années à installer et dépanner des systèmes complexes sur le terrain, j’ai décidé de plonger dans l’univers du code et de l’automatisation, guidé par une solide maîtrise en **C** et une soif constante d’apprendre. 
+Bonjour ! Je suis un **technicien télécom et courant faibles** en pleine reconversion vers le monde du **DevOps** et des technologies cloud. Après plusieurs années à installer et dépanner des systèmes complexes sur le terrain, j’ai décidé de plonger dans l’univers du code et de l’automatisation, guidé par une solide maîtrise en **C** et une soif constante d’apprendre.
 
 ### 🎯 Mes objectifs :
 - Transformer ma curiosité technique en compétences pratiques pour bâtir et gérer des infrastructures modernes.
@@ -63,7 +62,7 @@ Projets spécifiques disponibles dans mes repositories GitHub !
 
 ## 📨 Restons en contact
 
-- 💼 **LinkedIn** : [Mon profil LinkedIn](#) *(à ajouter si disponible)*
-- 📧 **Email** : [Votre email ici](#)
+- 📧 **Email** : [m.boiguille.pro@gmail.com](mailto:m.boiguille.pro@gmail.com)
 
 Votre feedback et vos conseils sont toujours les bienvenus. Ensemble, avançons dans cet univers en constante évolution !
+
